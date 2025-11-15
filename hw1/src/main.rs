@@ -1,7 +1,7 @@
-// mod flizz_buzz;
-// mod format;
+mod flizz_buzz;
+mod format;
 
 fn main() {
-    // flizz_buzz::flizz_buzz();
-    // format::format_table();
+    flizz_buzz::flizz_buzz();
+    format::format_table();
 }
