@@ -1,0 +1,12 @@
+{
+  "name": "typedarray",
+  "version": "1.0.0",
+  "description": "typed array",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "scheme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
